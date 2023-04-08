@@ -8,7 +8,10 @@ print(str.find("字"))
 print(str.replace("字", "z"))
 print(str.split("字"))
 
-
+strs = ''''
+    1
+    2'''
+print(strs)
 
 # int类型
 int = 10
